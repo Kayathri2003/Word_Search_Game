@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b11a8e3e-efff-491d-8a5e-9c610da262e1)![image](https://github.com/user-attachments/assets/e62772b2-479f-4b1f-8c0c-d9fb4a32c33a)![image](https://github.com/user-attachments/assets/8a0e065b-6057-4962-98dc-6c2214887c5a)![image](https://github.com/user-attachments/assets/e6666738-d95c-4035-86b1-e8e67bd293e7)# Word_Search_Game
+# Word_Search_Game
 
 # Motivation
 To develop a word search puzzle that would be an interesting and entertaining way to improve their concentration, observation, logical thinking and problem-solving skills.
